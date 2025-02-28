@@ -1,12 +1,16 @@
 Mavzu : Makro
 
-1. Madina, Hilola, Munira
+1. Madina, Hilola, Munira -
 
-2. Javohir, Shuhrat, Sherbek
+2. Javohir, Shuhrat, Sherbek - https://github.com/Muxiddinovich/madels.git
+abstraction kam, logichna ishlamayapti
 
-3. Sarvar, Abbosxo'ja
+3. Sarvar, Abbosxo'ja - https://github.com/Abbos090/comanda/blob/master/Modules.py
+Vorislik, polimorfizm, encapsulation qismlarida muammo bor
 
-4. Sunnatxo'ja Chingiz, Asliddin
+4. Sunnatxo'ja, Chingiz, Asliddin - https://github.com/SunnatxojaGaniyev/Komanda.py
+vorislik, polimorfizm kabi tushunchalar qo'llanmagan
 
-5. Sharifjon, Muhammadaziz, Salimjon
+5. Sharifjon, Muhammadaziz, Salimjon - https://github.com/salem0809/supermarket.py.git
+class lar yo'q, vorislik, polimorfizm, abstraction, file bilan umuman ishlamagan
 
